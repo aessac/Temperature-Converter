@@ -1,0 +1,28 @@
+/*Uppgift 1 - del 2
+
+#time {
+    font-family: "Tahoma";
+     font-size: 18px;
+     color: white;
+    background-color: black;
+    width: 600px;
+    border-left: 5px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+*/
+
+/* #randomBackground{
+    width: 100px;
+    height: 100px;    
+}
+ */
+
+ #resultContainer{
+    margin-top: 20px;
+ }
+
+ table, th, td {
+    border: 1px solid black;
+  }
