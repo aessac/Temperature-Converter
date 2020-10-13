@@ -1,4 +1,4 @@
-## Temperature converter Aplication With JavaScript, CSS & Bootstrap.
+## Temperature converter Application With JavaScript, CSS & Bootstrap.
 
 A JavaScript course assigment.
 
