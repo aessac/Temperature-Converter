@@ -1,7 +1,5 @@
 ## Temperature converter Application With JavaScript, CSS & Bootstrap.
 
-A JavaScript course assigment.
-
 **Convert Temperatures from & to:**
 * Celsius.
 * Fahrenheit.
